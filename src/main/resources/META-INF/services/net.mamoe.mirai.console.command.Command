@@ -1,0 +1,9 @@
+com.logs.mirai.lottery.command.Add
+#com.logs.mirai.lottery.command.Delete
+com.logs.mirai.lottery.command.Detail
+#com.logs.mirai.lottery.command.End
+#com.logs.mirai.lottery.command.Join
+#com.logs.mirai.lottery.command.List
+#com.logs.mirai.lottery.command.Member
+#com.logs.mirai.lottery.command.Quit
+#com.logs.mirai.lottery.command.test
